@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Astrochan</name>
+    <filename>@BACKGROUNDDIR@/Astrochan.webp</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#967864</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>

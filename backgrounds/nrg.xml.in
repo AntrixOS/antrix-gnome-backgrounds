@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>NRG</name>
+    <filename>@BACKGROUNDDIR@/nrg-l.webp</filename>
+    <filename-dark>@BACKGROUNDDIR@/nrg-d.webp</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#6aadd5</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
